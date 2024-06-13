@@ -3,8 +3,11 @@
   "version": "1.0.9",
   "description": "crypto-dig",
   "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/ildar-m/crypto-dig#readme",
   "bugs": {
     "url": "https://github.com/ildar-m/crypto-dig/issues"
