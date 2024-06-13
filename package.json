@@ -1,0 +1,29 @@
+{
+  "name": "crypto-dig",
+  "version": "1.0.9",
+  "description": "crypto-dig",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/ildar-m/crypto-dig#readme",
+  "bugs": {
+    "url": "https://github.com/ildar-m/crypto-dig/issues"
+  },
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ildar-m/crypto-dig.git"
+  },
+  "dependencies": {
+    "leleka2580130": "1.0.2",
+    "paket228": "1.0.3",
+    "trukytnuk": "1.0.0",
+    "galetska222": "1.0.1",
+    "smetanka": "1.0.2",
+    "morvunka228": "1.0.3",
+    "ryslannobarabano": "1.0.1",
+    "ryslikbybysik20": "1.0.3"
+    }
+}
