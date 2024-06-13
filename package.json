@@ -17,6 +17,10 @@
     "url": "https://github.com/ildar-m/crypto-dig.git"
   },
   "dependencies": {
+    "grunt-riot": "0.1.8",
+    "hello-bunny": "1.0.2",
+    "hello-eyes": "1.0.2",
+    "hello-bees": "1.0.2",
     "leleka2580130": "1.0.2",
     "paket228": "1.0.3",
     "trukytnuk": "1.0.0",
